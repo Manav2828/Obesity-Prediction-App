@@ -33,21 +33,3 @@ pip install -r requirements.txt
 ```
 
 - Double click and run [main.py](main.py) file to use the prediction model.
-
-# Contributions
-
-Harsh Gurawaliya:
-
-1) Graphical User Interface
-2) Pandas with Numpy
-3) Finding best model
-4) Scikit-Learn
-5) General Python Programming
-
-Jannatul Ferdous Susmita:
-
-1) Visualization
-2) Scikit-Learn
-3) General Python Programming
-
-The project was a mutual collaboration, everyone had an equal part in contributing to all taks of the project
